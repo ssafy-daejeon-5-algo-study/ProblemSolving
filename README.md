@@ -7,6 +7,12 @@
 
 다른 사람의 코드를 보고 코드 리뷰할 것이 있으면 코멘트 남기기.
 
+## 멤버 소개
+|<img src="https://avatars.githubusercontent.com/u/89900251?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/84137164?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/86296569?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|
+|Daeng<br/>[@yoondaeng](https://github.com/yoondaeng)|Seorim Cho<br/>[@srcho01](https://github.com/srcho01)|karam Choi<br/>[@karamChoi2523](https://github.com/karamChoi2523)|
+
+
 ## ❌ 스터디 패널티❌
 문제 고의적으로 문제를 풀지 않을 시, 5천원
 
