@@ -59,7 +59,7 @@ public class Main {
     			
     		}
     		
-    		// 적 제
+    		// 적 제거
     		for (String t : targets) {
     			String[] pos = t.split(",");
     			int r = Integer.parseInt(pos[0]);
